@@ -1,1 +1,11 @@
-For example, after feedback from users, leetcode company is free online service for coding practice, it gets a lot of solution about one coding questions, now it offers users solution about particular question and they also have explaination about particular coding questions. The users know saves time for searching answers about particular questions. Also, another example is my website, after collecting enough from users, I can make better recommendation for users. This is because each time users click the paper that I recommend to them and then know they click to specific papers and I will records which paper is more popular and next time I will score the paper higher and recommend to other users.
+For example, after feedback from users, leetcode company is free online service for coding practice, 
+it gets a lot of solution about one coding questions, now it offers users solution about particular
+question and they also have explaination about particular coding questions. The users know saves time
+for searching answers about particular questions. Also, another example is my website, after collecting 
+enough from users, I can make better recommendation for users. This is because each time users click the paper
+that I recommend to them and then know they click to specific papers and I will records which paper is more popular 
+and next time I will score the paper higher and recommend to other users.
+
+
+A lot of companies like Amazon would like to use user information to make recommendation.
+And even a car company benefits from the user information feedback. For example, "Automakers are obtaining data through real-time navigation functions and other on-board location services and storing it for undetermined lengths of time. They need to provide motorists with more information on how and why they're collecting and sharing data, according to a government report"(autoblog) There is a lot of advertisements revenue, "mobile advertisers are trying to find ways to entice drivers near their stores to shop with coupons and deals sent through such on-board systems."
